@@ -1,7 +1,8 @@
 # ChatGPT for Desktop
 
 ChatGPT for Desktop is an Electron application that allows you to access the ChatGPT web interface in a standalone desktop window.
-[Screenhot1](https://github.com/RuskyDev/ChatGPT-For-Desktop/blob/main/src/images/screenshots/1.png)
+
+[1](src/images/screenshots/1.png)
 
 ### Installation
 1. Download the `chatgpt-for-desktop-win32-x64.zip` from the releases tab.
